@@ -19,6 +19,7 @@
                     <string>mesu.apple.com</string>
                     <string>valid.apple.com</string>
                     <string>crl.apple.com</string>
+                    <string>crl.apple.com.edgesuite.net</string>
                     <string>certs.apple.com</string>
                     <string>appattest.apple.com</string>
                     <string>vpp.itunes.apple.com</string>
