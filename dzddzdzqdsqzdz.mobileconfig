@@ -81,6 +81,8 @@
             <string>https://sign.p12.ru</string>
             <key>Icon</key>
             <string>https://cdn.discordapp.com/icons/1213909027109609562/a_c37c3e90d9b1441c5497ac1656da5231.gif?size=4096</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
         </dict>
     </array>
     <key>PayloadDescription</key>
